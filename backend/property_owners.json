@@ -1,0 +1,79 @@
+[
+  {
+    "propertyTitle": "Modern Apartment",
+    "propertyId": "6a338b2b7fb0f744d9086e0f",
+    "ownerName": "Owner 1",
+    "ownerEmail": "owner1@example.com",
+    "ownerId": "6a338b2a7fb0f744d9086df8"
+  },
+  {
+    "propertyTitle": "Cozy Cottage",
+    "propertyId": "6a338b2b7fb0f744d9086e11",
+    "ownerName": "Owner 2",
+    "ownerEmail": "owner2@example.com",
+    "ownerId": "6a338b2a7fb0f744d9086dfd"
+  },
+  {
+    "propertyTitle": "Beach House",
+    "propertyId": "6a338b2b7fb0f744d9086e13",
+    "ownerName": "Owner 3",
+    "ownerEmail": "owner3@example.com",
+    "ownerId": "6a338b2a7fb0f744d9086dff"
+  },
+  {
+    "propertyTitle": "Heritage Haveli",
+    "propertyId": "6a338b2b7fb0f744d9086e15",
+    "ownerName": "Owner 4",
+    "ownerEmail": "owner4@example.com",
+    "ownerId": "6a338b2a7fb0f744d9086e01"
+  },
+  {
+    "propertyTitle": "Tech City Flat",
+    "propertyId": "6a338b2b7fb0f744d9086e17",
+    "ownerName": "Owner 5",
+    "ownerEmail": "owner5@example.com",
+    "ownerId": "6a338b2a7fb0f744d9086e03"
+  },
+  {
+    "propertyTitle": "Capital Residency",
+    "propertyId": "6a338b2b7fb0f744d9086e19",
+    "ownerName": "Owner 6",
+    "ownerEmail": "owner6@example.com",
+    "ownerId": "6a338b2a7fb0f744d9086e05"
+  },
+  {
+    "propertyTitle": "Riverside Villa",
+    "propertyId": "6a338b2b7fb0f744d9086e1b",
+    "ownerName": "Owner 7",
+    "ownerEmail": "owner7@example.com",
+    "ownerId": "6a338b2a7fb0f744d9086e07"
+  },
+  {
+    "propertyTitle": "Historic Townhouse",
+    "propertyId": "6a338b2b7fb0f744d9086e1d",
+    "ownerName": "Owner 8",
+    "ownerEmail": "owner8@example.com",
+    "ownerId": "6a338b2a7fb0f744d9086e09"
+  },
+  {
+    "propertyTitle": "Marina View Apartment",
+    "propertyId": "6a338b2b7fb0f744d9086e1f",
+    "ownerName": "Owner 1",
+    "ownerEmail": "owner1@example.com",
+    "ownerId": "6a338b2a7fb0f744d9086df8"
+  },
+  {
+    "propertyTitle": "Hillside Retreat",
+    "propertyId": "6a338b2b7fb0f744d9086e21",
+    "ownerName": "Owner 2",
+    "ownerEmail": "owner2@example.com",
+    "ownerId": "6a338b2a7fb0f744d9086dfd"
+  },
+  {
+    "propertyTitle": "City Center Studio",
+    "propertyId": "6a338b2b7fb0f744d9086e23",
+    "ownerName": "Owner 3",
+    "ownerEmail": "owner3@example.com",
+    "ownerId": "6a338b2a7fb0f744d9086dff"
+  }
+]
